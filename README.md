@@ -126,7 +126,7 @@ else:
 
 
 ### OUTPUT:
-
+![alt text](oUPUTCRYPTARITHMETIC.png)
 
 
 
